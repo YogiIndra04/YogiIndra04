@@ -21,16 +21,6 @@
 
 ---
 
-### 🎮 Dynamic Animations  
-
-**🐍 GitHub Snake**  
-![GitHub Snake](https://raw.githubusercontent.com/YogiIndra04/YogiIndra04/output/snake.svg)  
-
-**👾 Pacman Contribution Graph**  
-![Pacman Dynamic](https://raw.githubusercontent.com/YogiIndra04/YogiIndra04/output/pacman-contribution-graph.svg)  
-
----
-
 ### 🚀 Tech Stack
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -59,3 +49,13 @@
 ---
 
 ✨ *Thanks for visiting my profile! Don’t forget to ⭐ some of my repos if you like them!*  
+
+### 🎮 Dynamic Animations  
+
+**🐍 GitHub Snake**  
+![GitHub Snake](https://raw.githubusercontent.com/YogiIndra04/YogiIndra04/output/snake.svg)  
+
+**👾 Pacman Contribution Graph**  
+![Pacman Dynamic](https://raw.githubusercontent.com/YogiIndra04/YogiIndra04/output/pacman-contribution-graph.svg)  
+
+---
